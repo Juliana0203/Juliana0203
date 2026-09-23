@@ -71,31 +71,37 @@
 
 ---
 
-### 🛠️ Stack Tecnológico & Herramientas
+### 🛠️ Stack Tecnológico
 
 <div align="center">
 
-#### 🌐 Frontend & Frameworks
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+#### 🤖 Machine Learning & Data Science
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
 
-<br/>
+#### ⚙️ Backend & Cloud
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-#### ⚙️ Backend & Arquitectura
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-
-<br/>
-
-#### 🤖 Machine Learning, Datos & Nube
-<img src="https://img.shields.io/badge/Machine_Learning-2E7D32?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS_Services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+#### 🌐 Frontend & UI
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 </div>
 
@@ -103,14 +109,17 @@
 
 ### 📈 Actividad & Métricas en GitHub
 
-<!-- Nota: Cambia TU_USUARIO por tu nombre de usuario de GitHub -->
+<!-- Gráfica de actividad continua interactiva (alta disponibilidad, paleta verde Github) -->
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark_green&hide_border=true&bg_color=0d1117&title_color=2ea44f&icon_color=56d364&text_color=c9d1d9" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark_green&hide_border=true&bg_color=0d1117&title_color=2ea44f&text_color=c9d1d9" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=github-compact&area=true&color=2ea44f&line=2ea44f&point=56d364&bg_color=0d1117&hide_border=true" width="100%" alt="Gráfica de Contribuciones" />
 </div>
 
-<div align="center" style="margin-top: 10px;">
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=dark_green&hide_border=true&background=0d1117&ring=2ea44f&fire=56d364&currStreakLabel=56d364" alt="GitHub Streak" />
+<br/>
+
+<!-- Tarjeta de estadísticas simplificada con parámetros compatibles -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&bg_color=0d1117&title_color=2ea44f&icon_color=56d364&text_color=c9d1d9&border_color=2ea44f" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&bg_color=0d1117&title_color=2ea44f&text_color=c9d1d9&border_color=2ea44f" height="160" alt="Top Languages" />
 </div>
 
 ---
