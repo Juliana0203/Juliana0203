@@ -1,66 +1,99 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,15,31&height=180&section=header&text=¡Hola,%20soy%20Julia!%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <!-- Banner superior ondulado con gradiente verde moderno -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,12,6&height=200&section=header&text=¡Hola,%20soy%20Juliana!%20👋🌿&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
 
   <p align="center">
-    <strong>Estudiante de Ingeniería de Software | Entusiasta del Backend, Concurrencia y Datos</strong>
+    <strong>Ingeniería de Sistemas | Full Stack Developer & Machine Learning Enthusiast</strong><br/>
+    <em>Construyendo tecnología accesible y con impacto real a través del software y las matemáticas.</em>
   </p>
 
   <p align="center">
-    <a href="https://linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:tu-correo@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0F5132?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:tu-correo@ejemplo.com"><img src="https://img.shields.io/badge/Email-198754?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/Ubicación-Colombia-20c997?style=for-the-badge&logo=googlemaps&logoColor=white" />
   </p>
 </div>
 
 ---
 
-### 🚀 Sobre mí
+### 🌿 Sobre mí
 
-- 🔭 Actualmente profundizando en **arquitectura de software**, sistemas concurrentes y despliegue de microservicios.
-- 💡 Me apasiona explorar cómo conectar modelos de **Machine Learning / Visión por Computadora** con servicios robustos y escalables.
-- 🛠️ Me gusta diseñar código limpio, entender qué pasa "bajo el capó" (hilos, sincronización y memoria) y resolver problemas complejos de backend.
-- ⚡ En mi tiempo libre disfruto el aire libre, aprender cosas nuevas y los retos de lógica y matemáticas.
+- 🎓 Estudiante de **Ingeniería de Sistemas** con pasión por el desarrollo **Full Stack** y la aplicación práctica de **Machine Learning**.
+- 🧭 **Liderazgo & Solución de Problemas:** Me motiva liderar iniciativas técnicas y traducir problemas reales del día a día en software funcional, escalable y accesible.
+- 📐 **Amante de las Matemáticas:** Encuentro en el rigor matemático la base para resolver lógica compleja, optimizar algoritmos y entender a fondo los modelos de datos y ML.
+- 🏪 **Impacto Local:** Regularmente desarrollo herramientas prácticas y ágiles para apoyar a pequeños comerciantes y solucionar fricciones cotidianas de las personas.
+- 🏓 **Fuera del editor de código:** Me encuentras jugando tenis de mesa, disfrutando de buenos videojuegos, sumergida en una lectura o recuperando energía durmiendo.
 
 ---
 
-### 💻 Stack & Herramientas
+### 🛠️ Tech Stack & Herramientas
 
 <p align="center">
-  <!-- Lenguajes -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <!-- Frontend & UI -->
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20TypeScript%20%7C%20Tailwind-198754?style=flat-square&logo=react&logoColor=white" />
   <br/>
-  <!-- Frameworks & Data -->
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <!-- Backend & Core Languages -->
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Python%20%7C%20Java-0f5132?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databases-PostgreSQL%20%7C%20MongoDB%20%7C%20SQLite-198754?style=flat-square&logo=postgresql&logoColor=white" />
   <br/>
-  <!-- Arquitectura & DevOps -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <!-- Data & Machine Learning -->
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Scikit--Learn%20%7C%20TensorFlow%20%7C%20Pandas%20%7C%20NumPy-20c997?style=flat-square&logo=scikit-learn&logoColor=black" />
+  <br/>
+  <!-- Herramientas & DevOps -->
+  <img src="https://img.shields.io/badge/Tools-Git%20%7C%20Docker%20%7C%20Linux-146c43?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 ---
 
-### 📌 Proyectos Destacados
+### 🚀 Proyectos Destacados
 
-| Proyecto | Descripción | Tecnologías |
-| :--- | :--- | :--- |
-| **Microservices API Gateway** | Implementación de arquitectura distribuida con enrutamiento seguro y balanceo de carga. | `Docker` `Gateway` `REST` |
-| **Sistemas Concurrentes & Sincronización** | Pruebas de rendimiento y resolución de condiciones de carrera con barreras y multihilos. | `Java` `Concurrency` |
-| **Computer Vision / ML Pipeline** | Modelos supervisados y extracción de características en tiempo real. | `Python` `TensorFlow` `MediaPipe` |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌱 Aula Ya</h3>
+      <p><strong>Plataforma educativa offline</strong> diseñada para cerrar la brecha digital y conectar a estudiantes de zonas rurales en Colombia, brindando acompañamiento pedagógico continuo a lo largo de su etapa escolar sin depender de conectividad constante a internet.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Impacto%20Social-Offline--First-2e7d32?style=flat-square" />
+        <img src="https://img.shields.io/badge/Educación-Colombia-1b5e20?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 Table Master</h3>
+      <p><strong>Hoja de cálculo inteligente impulsada por IA</strong> que simplifica la limpieza, edición y transformación de datos tabulares sin necesidad de código:</p>
+      <ul>
+        <li>🔍 <strong>Detección automática:</strong> Infiere esquemas, columnas y tipos de datos al instante.</li>
+        <li>✨ <strong>Sugerencias con IA:</strong> Propone correcciones revisables tipo <em>diff</em> (estilo control de versiones).</li>
+        <li>🛡️ <strong>Historial de versiones:</strong> Experimentación segura sin riesgo de pérdida de datos.</li>
+        <li>📤 <strong>Exportación versátil:</strong> Salidas optimizadas para análisis y preparación de contexto para LLMs.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Full%20Stack-AI%20Powered-2e7d32?style=flat-square" />
+        <img src="https://img.shields.io/badge/Data%20Wrangling-LLM%20Ready-1b5e20?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 Actividad en GitHub
+### 📈 Actividad en GitHub
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+  <!-- Tarjetas con tema verde oscuro personalizado (theme=matrix / highcontrast) -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=matrix&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=matrix&hide_border=true" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,15,31&height=100&section=footer" width="100%" />
+  <!-- Racha de contribuciones con paleta verde -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=matrix&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+  <!-- Banner inferior en curva verde -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,12,6&height=110&section=footer" width="100%" />
 </div>
