@@ -1,69 +1,61 @@
 <div align="center">
-  <!-- Banner con curvas en degradado verde -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,8,22&height=200&section=header&text=¡Hola,%20soy%20Juliana!%20🌿&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <!-- Banner estilo Cyber / Dark Wave con acento verde esmeralda -->
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=5,12,8,22&height=220&section=header&text=Hi,%20I'm%20Juliana%20🌿&fontSize=48&fontColor=ffffff&desc=Systems%20Engineer%20|%20Full%20Stack%20&%20Machine%20Learning&descSize=18&descAlignY=68&descAlign=50" width="100%" />
 
   <p align="center">
-    <strong>Estudiante de Ingeniería de Sistemas | Full Stack Developer & Machine Learning Enthusiast</strong><br/>
-    <em>Apasionada por las matemáticas, el liderazgo de proyectos y el impacto social mediante tecnología real.</em>
-  </p>
-
-  <p align="center">
-    <a href="https://linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:tu-correo@ejemplo.com"><img src="https://img.shields.io/badge/Email-2E7D32?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:tu-correo@ejemplo.com"><img src="https://img.shields.io/badge/Email-2EA44F?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://github.com/TU_USUARIO"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   </p>
 </div>
 
 ---
 
-### 🌱 Sobre mí
+### 👨‍💻 About Me
 
-- 🎓 **Ingeniería de Sistemas:** Apasionada por construir soluciones integrales (desde la arquitectura backend y frontend hasta la analítica e inteligencia artificial).
-- 💡 **Soluciones con propósito:** Me encanta liderar iniciativas y convertir problemas complejos del mundo real en software escalable, accesible y útil.
-- 📐 **Mundo matemático:** Crecí amando las matemáticas; encuentro fascinante la lógica detrás de los algoritmos, la optimización y los modelos de datos.
-- 🏪 **Impacto cotidiano:** Constantemente desarrollo herramientas prácticas para apoyar a pequeños comerciantes, emprendedores y usuarios del día a día.
-- 🏓 **Fuera del código:** Cuando no estoy programando, me encuentras jugando tenis de mesa, disfrutando de buenos videojuegos, leyendo o simplemente recargando energías con una buena siesta.
+I am a **Systems Engineering student** passionate about architecting scalable full-stack applications and deploying practical machine learning models. I enjoy turning complex real-world challenges into reliable, human-centered software.
+
+- 🚀 **Mission-Driven Engineering:** I specialize in offline-first systems, low-resource architectures, and intelligent data tooling that bridge digital divides.
+- 📐 **Mathematical Mindset:** Strong affinity for discrete math, optimization, linear algebra, and data patterns behind machine learning models.
+- 🏪 **Grassroots Impact:** Constantly building tailored software to empower local merchants and streamline everyday community workflows.
 
 ---
 
-### 🚀 Proyectos Destacados
+### 📌 Featured Projects
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🏫 Aula Ya</h3>
-      <p align="center">
-        <em>Cerrando la brecha educativa rural en Colombia mediante ingeniería y accesibilidad</em>
-      </p>
+      <p align="center"><strong>Rural Educational Equity Platform</strong></p>
       <p>
-        Solución integral diseñada para atacar la acumulación de vacíos académicos en estudiantes de zonas rurales sin depender de infraestructura previa de internet continuo.
+        An offline-first educational system engineered to close academic learning gaps across rural Colombia without requiring persistent internet infrastructure.
       </p>
+      <strong>Key Highlights:</strong>
       <ul>
-        <li><strong>IA Local & Offline:</strong> Tutor inteligente que se ejecuta en el dispositivo sin conexión constante.</li>
-        <li><strong>Canal SMS de Respaldo:</strong> Cobertura para estudiantes con teléfonos y equipos básicos.</li>
-        <li><strong>Apoyo Docente:</strong> Contenido curricular descargable y reportes automáticos de vacíos de aprendizaje sin sobrecargar al profesor.</li>
-        <li><strong>Modelo Sostenible:</strong> Diseñado para ser adoptado a nivel de política pública u organismos de cooperación.</li>
+        <li><strong>Local AI Tutor:</strong> Adaptive intelligence executing on-device without continuous connectivity.</li>
+        <li><strong>SMS Fallback Channel:</strong> Universal access designed for basic mobile hardware.</li>
+        <li><strong>Educator Empowerment:</strong> Automated learning-gap diagnostics with zero extra administrative workload.</li>
       </ul>
       <p align="center">
-        <code>Python</code> <code>Edge AI</code> <code>SMS Gateway</code> <code>Offline-First</code>
+        <code>Python</code> <code>Edge AI</code> <code>Offline-First</code> <code>SMS Gateway</code>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">📊 Table Master</h3>
-      <p align="center">
-        <em>Hojas de cálculo intuitivas impulsadas por Inteligencia Artificial</em>
-      </p>
+      <p align="center"><strong>AI-Assisted Tabular Data Platform</strong></p>
       <p>
-        Aplicación web para cargar, editar, limpiar y estructurar datos tabulares sin necesidad de conocimientos técnicos o scripts manuales.
+        An intuitive web spreadsheet engine powered by AI that enables seamless data loading, parsing, automated cleaning, and structured exports.
       </p>
+      <strong>Key Highlights:</strong>
       <ul>
-        <li><strong>Detección Automática:</strong> Reconoce esquemas, encabezados y tipos de datos al instante.</li>
-        <li><strong>Limpieza Inteligente:</strong> Propuestas de corrección generadas por IA que el usuario aprueba con un visor de cambios (estilo <em>diff</em>).</li>
-        <li><strong>Historial & Seguridad:</strong> Control de versiones seguro para experimentar sin riesgo de pérdida de datos.</li>
-        <li><strong>Exportación Flexible:</strong> Salidas optimizadas en múltiples formatos, listos para servir como contexto a LLMs.</li>
+        <li><strong>Automated Inference:</strong> Dynamic schema, data-type, and header detection.</li>
+        <li><strong>Diff-Based Cleaning:</strong> AI suggests corrective transformations through an approval/diff workflow.</li>
+        <li><strong>Version Control:</strong> Safe historical rollbacks to experiment without data loss.</li>
+        <li><strong>LLM-Ready Exports:</strong> Tailored output generation optimized for language model context windows.</li>
       </ul>
       <p align="center">
-        <code>Full Stack</code> <code>AI Data Cleaning</code> <code>Web App</code> <code>LLM Context</code>
+        <code>Full Stack</code> <code>AI Cleaning</code> <code>Data Diff</code> <code>LLM Ready</code>
       </p>
     </td>
   </tr>
@@ -71,42 +63,43 @@
 
 ---
 
-### 🛠️ Stack Tecnológico
+### 🛠️ Tech Stack
 
 <div align="center">
 
-#### ⚙️ Backend & Cloud
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_Services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+#### Machine Learning & Data Science
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,scikitlearn,pytorch&theme=dark" />
+</a>
 
-#### 🌐 Frontend & UI
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+<br/>
 
-#### 🤖 Machine Learning & Data Science
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
+#### Backend & Cloud Infrastructure
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=spring,django,java,aws,postgres,docker&theme=dark" />
+</a>
+
+<br/>
+
+#### Frontend & Web Development
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,html,css,git&theme=dark" />
+</a>
 
 </div>
 
-
 ---
+
+### ⚡ Current Focus & Terminal Status
+
+```json
+{
+  "name": "Juliana",
+  "status": "Engineering impactful solutions & scaling systems",
+  "learning": ["Deep Learning Architectures", "Distributed Systems", "Applied Math"],
+  "techStack": ["Spring Boot", "Next.js", "Django", "Python", "AWS"],
+  "openFor": ["Open Source Collaboration", "Civic Tech Projects", "Research & Dev"]
+}
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,12,8,6&height=100&section=footer" width="100%" />
