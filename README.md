@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════ HERO BANNER ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,8,22&height=260&section=header&text=JULIANA%20MORENO&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Systems%20Engineer%20%E2%80%A2%20Full%20Stack%20Architect%20%E2%80%A2%20Applied%20ML&descSize=18&descAlignY=60&descColor=ffffff" width="100%" alt="Juliana Moreno"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,8,22&height=260&section=header&text=Juliana%20Moreno%20Narváez&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Systems%20Engineer%20%E2%80%A2%20Full%20Stack%20Architect%20%E2%80%A2%20Applied%20ML&descSize=18&descAlignY=60&descColor=ffffff" width="100%" alt="Juliana Moreno"/>
 
 <!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
 <a href="https://github.com/Juliana0203">
