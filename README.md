@@ -57,6 +57,7 @@ type Profile = {
 <div align="center">
 
 <!-- QUOTE:START -->
+> *Loving thoughts and actions are clearly beneficial for our physical and mental health.* — **Dalai Lama**
 <!-- QUOTE:END -->
 
 </div>
@@ -135,6 +136,11 @@ type Profile = {
 <h2 align="center">🛰️ Latest Activity</h2>
 
 <!-- REPOS:START -->
+- [**HackatonReact**](https://github.com/Juliana0203/HackatonReact) — Sin descripción · `TypeScript`
+- [**PostMark**](https://github.com/Juliana0203/PostMark) — Es un pasaporte digital interactivo para iOS que transforma los momentos de tus viajes en postales y estampillas coleccionables con vida propia. · `TypeScript`
+- [**Parcial-web**](https://github.com/Juliana0203/Parcial-web) — Sin descripción · `JavaScript`
+- [**Preparcial-web**](https://github.com/Juliana0203/Preparcial-web) — Sin descripción · `TypeScript`
+- [**tickets-system**](https://github.com/Juliana0203/tickets-system) — Desarrollar una aplicación web sencilla en Django que permita a un usuario iniciar sesión, crear tickets de soporte y consultar el estado de los tickets que ha creado. · `Python`
 <!-- REPOS:END -->
 
 <br/>
@@ -211,6 +217,13 @@ type Profile = {
 <div align="center">
 
 <!-- LANGS:START -->
+```text
+TypeScript   ███████████░░░░░░░░░  54.5%
+Python       ████░░░░░░░░░░░░░░░░  18.2%
+JavaScript   ██░░░░░░░░░░░░░░░░░░   9.1%
+HTML         ██░░░░░░░░░░░░░░░░░░   9.1%
+Java         ██░░░░░░░░░░░░░░░░░░   9.1%
+```
 <!-- LANGS:END -->
 
 </div>
@@ -230,7 +243,9 @@ type Profile = {
 
 <br/><br/>
 
-<sub>Auto-updated: <!-- DATE:START --><!-- DATE:END --> (UTC)</sub>
+<sub>Auto-updated: <!-- DATE:START -->
+2026-10-26
+<!-- DATE:END --> (UTC)</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,12,8,6&height=110&section=footer" width="100%" alt="footer"/>
 
