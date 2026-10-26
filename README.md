@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════ HERO BANNER ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,8,22&height=260&section=header&text=Juliana%20Moreno%20Narváez&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Systems%20Engineer%20%E2%80%A2%20Full%20Stack%20Architect%20%E2%80%A2%20Applied%20ML&descSize=18&descAlignY=60&descColor=ffffff" width="100%" alt="Juliana Moreno"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,8,22&height=260&section=header&text=JULIANA%20MORENO&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Systems%20Engineer%20%E2%80%A2%20Full%20Stack%20Architect%20%E2%80%A2%20Applied%20ML&descSize=18&descAlignY=60&descColor=ffffff" width="100%" alt="Juliana Moreno"/>
 
 <!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
 <a href="https://github.com/Juliana0203">
@@ -48,6 +48,18 @@ type Profile = {
   offline: ["🏓 Table tennis", "🎮 Videogames", "📚 Reading", "😴 Recharging"];
 };
 ```
+
+<br/>
+
+<!-- ═══════════════ QUOTE OF THE DAY (dinámico) ═══════════════ -->
+<h2 align="center">💬 Quote of the Day</h2>
+
+<div align="center">
+
+<!-- QUOTE:START -->
+<!-- QUOTE:END -->
+
+</div>
 
 <br/>
 
@@ -119,6 +131,14 @@ type Profile = {
 
 <br/>
 
+<!-- ═══════════════ LATEST ACTIVITY (dinámico) ═══════════════ -->
+<h2 align="center">🛰️ Latest Activity</h2>
+
+<!-- REPOS:START -->
+<!-- REPOS:END -->
+
+<br/>
+
 <!-- ═══════════════ STACK ═══════════════ -->
 <h2 align="center">🛠️ Tech Stack</h2>
 
@@ -143,6 +163,19 @@ type Profile = {
   </tr>
 </table>
 
+</div>
+
+<br/>
+
+<!-- ═══════════════ MATH ═══════════════ -->
+<h2 align="center">📐 Mathematical Core</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Applied_Probability-161B22?style=for-the-badge&logo=wolfram&logoColor=56D364" alt="Applied Probability"/>
+  <img src="https://img.shields.io/badge/Stochastic_Modeling-161B22?style=for-the-badge&logo=latex&logoColor=56D364" alt="Stochastic Modeling"/>
+  <img src="https://img.shields.io/badge/Discrete_Structures-161B22?style=for-the-badge&logo=graphql&logoColor=56D364" alt="Discrete Structures"/>
+  <img src="https://img.shields.io/badge/Optimization-161B22?style=for-the-badge&logo=octave&logoColor=56D364" alt="Optimization"/>
+  <img src="https://img.shields.io/badge/Linear_Algebra-161B22?style=for-the-badge&logo=mathworks&logoColor=56D364" alt="Linear Algebra"/>
 </div>
 
 <br/>
@@ -172,6 +205,18 @@ type Profile = {
 
 <br/>
 
+<!-- ═══════════════ LANGUAGES (dinámico) ═══════════════ -->
+<h3 align="center">Languages in my repos</h3>
+
+<div align="center">
+
+<!-- LANGS:START -->
+<!-- LANGS:END -->
+
+</div>
+
+<br/>
+
 <!-- ═══════════════ CLOSING ═══════════════ -->
 <div align="center">
 
@@ -182,6 +227,10 @@ type Profile = {
 <a href="https://www.linkedin.com/in/juliana-moreno-narv%C3%A1ez-158890446/">
   <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
+<br/><br/>
+
+<sub>Auto-updated: <!-- DATE:START --><!-- DATE:END --> (UTC)</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,12,8,6&height=110&section=footer" width="100%" alt="footer"/>
 
