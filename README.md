@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Banner ilustrado tecnológico con tipografía dinámica -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=5,12,8,22&height=240&section=header&text=JULIANA%20MORENO&fontSize=46&fontColor=ffffff&desc=Systems%20Engineer%20|%20Full%20Stack%20&%20Machine%20Learning&descSize=19&descAlignY=66&descAlign=50" width="100%" />
+  <!-- Banner cinematográfico de ingeniería/tecnología -->
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=2,6,12,22&height=220&section=header&text=Hi,%20I'm%20Juliana%20🌿&fontSize=48&fontColor=ffffff&desc=Systems%20Engineering%20Student%20|%20Full%20Stack%20&%20Machine%20Learning&descSize=18&descAlignY=68&descAlign=50" width="100%" />
 
   <br/><br/>
 
@@ -15,7 +15,7 @@
     </a>
     &nbsp;
     <a href="https://github.com/Juliana0203" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio%20/%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
   </p>
 </div>
@@ -30,17 +30,15 @@
 
 ```javascript
 const juliana = {
-  role: "Systems Engineering Undergrad",
-  focus: ["Full Stack Development", "Applied Machine Learning"],
-  interests: ["Mathematical Modeling", "Offline-First Systems", "Civic Tech"],
-  currentProjects: {
-    education: "Aula Ya (Rural offline AI & SMS tutor)",
-    analytics: "Table Master (Intelligent tabular diff & cleaning)"
-  },
+  status: "Systems Engineering Student @ UniAndes",
+  mindset: "Project Leadership & Practical Problem Solving",
+  coreFocus: ["Full Stack Development", "Applied Machine Learning"],
+  passions: ["Mathematics", "Algorithmic Rigor", "Civic Tech"],
+  dailyHabit: "Building micro-tools for local merchants & daily users",
   beyondCode: [
     "Table Tennis 🏓",
     "Video Games 🎮",
-    "Mathematics & Reading 📖",
+    "Reading & Math 📖",
     "Power Napping ⚡"
   ]
 };
