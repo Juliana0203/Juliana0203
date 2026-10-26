@@ -147,19 +147,6 @@ type Profile = {
 
 <br/>
 
-<!-- ═══════════════ MATH ═══════════════ -->
-<h2 align="center">📐 Mathematical Core</h2>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Applied_Probability-161B22?style=for-the-badge&logo=wolfram&logoColor=56D364" alt="Applied Probability"/>
-  <img src="https://img.shields.io/badge/Stochastic_Modeling-161B22?style=for-the-badge&logo=latex&logoColor=56D364" alt="Stochastic Modeling"/>
-  <img src="https://img.shields.io/badge/Discrete_Structures-161B22?style=for-the-badge&logo=graphql&logoColor=56D364" alt="Discrete Structures"/>
-  <img src="https://img.shields.io/badge/Optimization-161B22?style=for-the-badge&logo=octave&logoColor=56D364" alt="Optimization"/>
-  <img src="https://img.shields.io/badge/Linear_Algebra-161B22?style=for-the-badge&logo=mathworks&logoColor=56D364" alt="Linear Algebra"/>
-</div>
-
-<br/>
-
 <!-- ═══════════════ METRICS ═══════════════ -->
 <h2 align="center">📈 GitHub Telemetry</h2>
 
