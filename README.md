@@ -136,11 +136,11 @@ type Profile = {
 <h2 align="center">🛰️ Latest Activity</h2>
 
 <!-- REPOS:START -->
+- [**buenos-dias-bogota**](https://github.com/Juliana0203/buenos-dias-bogota) — Personal morning briefing bot for Bogotá. Cross-verifies weather, air quality and exchange rate from multiple sources, adds Colombian news and a daily motivational quote, and sends a personalized message via Telegram at 8:00 a.m. Built in Python with GitHub Actions. · `Python`
 - [**HackatonReact**](https://github.com/Juliana0203/HackatonReact) — Sin descripción · `TypeScript`
 - [**PostMark**](https://github.com/Juliana0203/PostMark) — Es un pasaporte digital interactivo para iOS que transforma los momentos de tus viajes en postales y estampillas coleccionables con vida propia. · `TypeScript`
 - [**Parcial-web**](https://github.com/Juliana0203/Parcial-web) — Sin descripción · `JavaScript`
 - [**Preparcial-web**](https://github.com/Juliana0203/Preparcial-web) — Sin descripción · `TypeScript`
-- [**tickets-system**](https://github.com/Juliana0203/tickets-system) — Desarrollar una aplicación web sencilla en Django que permita a un usuario iniciar sesión, crear tickets de soporte y consultar el estado de los tickets que ha creado. · `Python`
 <!-- REPOS:END -->
 
 <br/>
@@ -218,11 +218,11 @@ type Profile = {
 
 <!-- LANGS:START -->
 ```text
-TypeScript   ███████████░░░░░░░░░  54.5%
-Python       ████░░░░░░░░░░░░░░░░  18.2%
-JavaScript   ██░░░░░░░░░░░░░░░░░░   9.1%
-HTML         ██░░░░░░░░░░░░░░░░░░   9.1%
-Java         ██░░░░░░░░░░░░░░░░░░   9.1%
+TypeScript   ██████████░░░░░░░░░░  50.0%
+Python       █████░░░░░░░░░░░░░░░  25.0%
+JavaScript   ██░░░░░░░░░░░░░░░░░░   8.3%
+HTML         ██░░░░░░░░░░░░░░░░░░   8.3%
+Java         ██░░░░░░░░░░░░░░░░░░   8.3%
 ```
 <!-- LANGS:END -->
 
