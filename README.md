@@ -57,7 +57,7 @@ type Profile = {
 <div align="center">
 
 <!-- QUOTE:START -->
-> *The more reasons you have for achieving your goal, the more determined you will become.* — **Brian Tracy**
+> *Distant water does not put out a nearby fire.* — **Chinese Proverb**
 <!-- QUOTE:END -->
 
 </div>
@@ -136,10 +136,10 @@ type Profile = {
 <h2 align="center">🛰️ Latest Activity</h2>
 
 <!-- REPOS:START -->
-- [**buenos-dias-bogota**](https://github.com/Juliana0203/buenos-dias-bogota) — Personal morning briefing bot for Bogotá. Cross-verifies weather, air quality and exchange rate from multiple sources, adds Colombian news and a daily motivational quote, and sends a personalized message via Telegram at 8:00 a.m. Built in Python with GitHub Actions. · `Python`
 - [**technical-interview-path**](https://github.com/Juliana0203/technical-interview-path) — Ruta profesional de ingeniería: resolución de algoritmos y estructuras de datos en Python, y arquitectura de software en Java. · `Python`
+- [**buenos-dias-bogota**](https://github.com/Juliana0203/buenos-dias-bogota) — Personal morning briefing bot for Bogotá. Cross-verifies weather, air quality and exchange rate from multiple sources, adds Colombian news and a daily motivational quote, and sends a personalized message via Telegram at 8:00 a.m. Built in Python with GitHub Actions. · `Python`
 - [**HackatonReact**](https://github.com/Juliana0203/HackatonReact) — Sin descripción · `TypeScript`
-- [**PostMark**](https://github.com/Juliana0203/PostMark) — Es un pasaporte digital interactivo para iOS que transforma los momentos de tus viajes en postales y estampillas coleccionables con vida propia. · `TypeScript`
+- [**post-mark**](https://github.com/Juliana0203/post-mark) — Es un pasaporte digital interactivo para iOS que transforma los momentos de tus viajes en postales y estampillas coleccionables con vida propia. · `TypeScript`
 - [**Parcial-web**](https://github.com/Juliana0203/Parcial-web) — Sin descripción · `JavaScript`
 <!-- REPOS:END -->
 
@@ -244,7 +244,7 @@ Java         ██░░░░░░░░░░░░░░░░░░   7.7%
 <br/><br/>
 
 <sub>Auto-updated: <!-- DATE:START -->
-2026-10-29
+2026-10-30
 <!-- DATE:END --> (UTC)</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,12,8,6&height=110&section=footer" width="100%" alt="footer"/>
