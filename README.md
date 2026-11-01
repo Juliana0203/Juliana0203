@@ -57,7 +57,7 @@ type Profile = {
 <div align="center">
 
 <!-- QUOTE:START -->
-> *When you believe in a thing, believe in it all the way, implicitly and unquestionable.* — **Walt Disney**
+> *When something comes from within, when it is a part of you, you have no choice but to live it, to express it.* — **Kamal Ravikant**
 <!-- QUOTE:END -->
 
 </div>
@@ -244,7 +244,7 @@ Java         ██░░░░░░░░░░░░░░░░░░   7.7%
 <br/><br/>
 
 <sub>Auto-updated: <!-- DATE:START -->
-2026-10-31
+2026-11-01
 <!-- DATE:END --> (UTC)</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,12,8,6&height=110&section=footer" width="100%" alt="footer"/>
