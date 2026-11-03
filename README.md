@@ -57,7 +57,7 @@ type Profile = {
 <div align="center">
 
 <!-- QUOTE:START -->
-> *If you want others to be happy, practice compassion. If you want to be happy, practice compassion.* — **Dalai Lama**
+> *When the time is gone, you can never get it back.* — **Stephen King**
 <!-- QUOTE:END -->
 
 </div>
@@ -138,9 +138,9 @@ type Profile = {
 <!-- REPOS:START -->
 - [**buenos-dias-bogota**](https://github.com/Juliana0203/buenos-dias-bogota) — Personal morning briefing bot for Bogotá. Cross-verifies weather, air quality and exchange rate from multiple sources, adds Colombian news and a daily motivational quote, and sends a personalized message via Telegram at 8:00 a.m. Built in Python with GitHub Actions. · `Python`
 - [**technical-interview-path**](https://github.com/Juliana0203/technical-interview-path) — Ruta profesional de ingeniería: resolución de algoritmos y estructuras de datos en Python, y arquitectura de software en Java. · `Python`
-- [**HackatonReact**](https://github.com/Juliana0203/HackatonReact) — Sin descripción · `TypeScript`
+- [**Hackaton_React**](https://github.com/Juliana0203/Hackaton_React) — Sin descripción · `TypeScript`
 - [**post-mark**](https://github.com/Juliana0203/post-mark) — Es un pasaporte digital interactivo para iOS que transforma los momentos de tus viajes en postales y estampillas coleccionables con vida propia. · `TypeScript`
-- [**Parcial-web**](https://github.com/Juliana0203/Parcial-web) — Sin descripción · `JavaScript`
+- [**Parcial_web_1**](https://github.com/Juliana0203/Parcial_web_1) — Sin descripción · `JavaScript`
 <!-- REPOS:END -->
 
 <br/>
@@ -244,7 +244,7 @@ Java         ██░░░░░░░░░░░░░░░░░░   7.7%
 <br/><br/>
 
 <sub>Auto-updated: <!-- DATE:START -->
-2026-11-02
+2026-11-03
 <!-- DATE:END --> (UTC)</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,12,8,6&height=110&section=footer" width="100%" alt="footer"/>
