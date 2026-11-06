@@ -57,7 +57,7 @@ type Profile = {
 <div align="center">
 
 <!-- QUOTE:START -->
-> *La optimización prematura es la raíz de todos los males.* — **Donald Knuth**
+> *Your mind is infinite, it's your doubts that are limiting.* — **Robert Kiyosaki**
 <!-- QUOTE:END -->
 
 </div>
@@ -136,8 +136,8 @@ type Profile = {
 <h2 align="center">🛰️ Latest Activity</h2>
 
 <!-- REPOS:START -->
-- [**openGym**](https://github.com/Juliana0203/openGym) — Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone. · `JavaScript`
 - [**buenos-dias-bogota**](https://github.com/Juliana0203/buenos-dias-bogota) — Personal morning briefing bot for Bogotá. Cross-verifies weather, air quality and exchange rate from multiple sources, adds Colombian news and a daily motivational quote, and sends a personalized message via Telegram at 8:00 a.m. Built in Python with GitHub Actions. · `Python`
+- [**openGym**](https://github.com/Juliana0203/openGym) — Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone. · `JavaScript`
 - [**technical-interview-path**](https://github.com/Juliana0203/technical-interview-path) — Ruta profesional de ingeniería: resolución de algoritmos y estructuras de datos en Python, y arquitectura de software en Java. · `Python`
 - [**Hackaton_React**](https://github.com/Juliana0203/Hackaton_React) — Sin descripción · `TypeScript`
 - [**post-mark**](https://github.com/Juliana0203/post-mark) — Es un pasaporte digital interactivo para iOS que transforma los momentos de tus viajes en postales y estampillas coleccionables con vida propia. · `TypeScript`
@@ -244,7 +244,7 @@ Java         █░░░░░░░░░░░░░░░░░░░   7.1%
 <br/><br/>
 
 <sub>Auto-updated: <!-- DATE:START -->
-2026-11-05
+2026-11-06
 <!-- DATE:END --> (UTC)</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,12,8,6&height=110&section=footer" width="100%" alt="footer"/>
