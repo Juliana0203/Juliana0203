@@ -57,7 +57,7 @@ type Profile = {
 <div align="center">
 
 <!-- QUOTE:START -->
-> *Your mind is infinite, it's your doubts that are limiting.* — **Robert Kiyosaki**
+> *The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened.* — **Kamal Ravikant**
 <!-- QUOTE:END -->
 
 </div>
@@ -244,7 +244,7 @@ Java         █░░░░░░░░░░░░░░░░░░░   7.1%
 <br/><br/>
 
 <sub>Auto-updated: <!-- DATE:START -->
-2026-11-06
+2026-11-07
 <!-- DATE:END --> (UTC)</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,12,8,6&height=110&section=footer" width="100%" alt="footer"/>
