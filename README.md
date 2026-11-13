@@ -57,7 +57,7 @@ type Profile = {
 <div align="center">
 
 <!-- QUOTE:START -->
-> *In the practice of tolerance, one's enemy is the best teacher.* — **Dalai Lama**
+> *An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question.* — **John Tukey**
 <!-- QUOTE:END -->
 
 </div>
@@ -244,7 +244,7 @@ Java         █░░░░░░░░░░░░░░░░░░░   7.1%
 <br/><br/>
 
 <sub>Auto-updated: <!-- DATE:START -->
-2026-11-12
+2026-11-13
 <!-- DATE:END --> (UTC)</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,12,8,6&height=110&section=footer" width="100%" alt="footer"/>
