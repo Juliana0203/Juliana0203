@@ -57,7 +57,7 @@ type Profile = {
 <div align="center">
 
 <!-- QUOTE:START -->
-> *La optimización prematura es la raíz de todos los males.* — **Donald Knuth**
+> *Never waste a minute of your precious life thinking about people you don't like.* — **Celestine Chua**
 <!-- QUOTE:END -->
 
 </div>
@@ -244,7 +244,7 @@ Java         █░░░░░░░░░░░░░░░░░░░   7.1%
 <br/><br/>
 
 <sub>Auto-updated: <!-- DATE:START -->
-2026-11-19
+2026-11-20
 <!-- DATE:END --> (UTC)</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,12,8,6&height=110&section=footer" width="100%" alt="footer"/>
