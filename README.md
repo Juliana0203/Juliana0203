@@ -1,13 +1,26 @@
 <div align="center">
 
-<!-- ═══════════════ HERO ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,8,22&height=260&section=header&text=JULIANA%20MORENO&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Systems%20Engineer%20%E2%80%A2%20Full%20Stack%20Architect%20%E2%80%A2%20Applied%20ML&descSize=18&descAlignY=60&descColor=ffffff" width="100%" alt="Juliana Moreno"/>
+<img src="assets/banner.svg" width="100%" alt="Juliana Moreno — Systems Engineer, Full Stack Architect, Applied ML"/>
 
 <a href="https://github.com/Juliana0203">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1000&color=56D364&center=true&vCenter=true&width=760&height=50&lines=Building+high-impact+software+for+real+people;Offline-first+%C2%B7+Applied+AI+%C2%B7+Full+Stack;Systems+Engineering+%40+Universidad+de+los+Andes;Mathematics+as+a+design+language" alt="Typing SVG"/>
 </a>
 
 <br/>
+
+<a href="https://www.linkedin.com/in/juliana-moreno-narv%C3%A1ez-158890446/" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:j.morenon2@uniandes.edu.co">
+  <img src="https://img.shields.io/badge/UNIANDES_EMAIL-2EA44F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://github.com/Juliana0203" target="_blank">
+  <img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=2EA44F" alt="GitHub"/>
+</a>
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/STATUS-ACTIVE%20DEVELOPMENT-2EA44F?style=flat-square&logo=git&logoColor=white" alt="Status"/>
 <img src="https://img.shields.io/badge/ARCH-OFFLINE--FIRST%20%26%20SYSTEMS%20AI-161B22?style=flat-square&logo=matrix&logoColor=2EA44F" alt="Arch"/>
@@ -16,14 +29,13 @@
 
 </div>
 
-<br/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-<!-- ═══════════════ ABOUT ═══════════════ -->
 ## 🎯 About Me
 
 <table>
   <tr>
-    <td width="58%" valign="top">
+    <td width="52%" valign="top">
 
 ```typescript
 const juliana = {
@@ -49,40 +61,17 @@ const juliana = {
 };
 ```
 
-  </td>
-  <td width="42%" valign="top" align="center">
-    <br/>
-    <img src="https://img.shields.io/badge/WHAT_I_DO-161B22?style=for-the-badge&labelColor=2EA44F&color=161B22" alt="What I do"/>
-    <p>I turn complex social and data problems into <strong>accessible, scalable and sustainable</strong> software, from architecture to interface.</p>
-    <img src="https://img.shields.io/badge/HOW_I_THINK-161B22?style=for-the-badge&labelColor=2EA44F&color=161B22" alt="How I think"/>
-    <p>Rigor from mathematics, empathy from the people who will actually use the tool.</p>
-    <blockquote><em>“Simplicity is a prerequisite for reliability.”</em><br/><sub>— Edsger W. Dijkstra</sub></blockquote>
-  </td>
+</td>
+    <td width="48%" valign="top" align="center">
+      <img src="assets/about.svg" width="100%" alt="Orbit of interests: Mathematics, Applied ML, Full Stack, Mobile, Impact"/>
+    </td>
   </tr>
 </table>
 
-<br/>
+I turn complex social and data problems into **accessible, scalable and sustainable** software, from architecture to interface. Rigor from mathematics, empathy from the people who will actually use the tool.
 
-<!-- ═══════════════ CONNECT ═══════════════ -->
-## 📬 Connect With Me
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/juliana-moreno-narv%C3%A1ez-158890446/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:j.morenon2@uniandes.edu.co">
-    <img src="https://img.shields.io/badge/UNIANDES_EMAIL-2EA44F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Juliana0203" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=2EA44F" alt="GitHub"/>
-  </a>
-</div>
-
-<br/>
-
-<!-- ═══════════════ STACK ═══════════════ -->
 ## 🛠️ Tech Stack
 
 <table>
@@ -106,83 +95,66 @@ const juliana = {
   <img src="https://img.shields.io/badge/Linear_Algebra-161B22?style=flat-square&logo=mathworks&logoColor=56D364" alt="Linear Algebra"/>
 </div>
 
-<br/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-<!-- ═══════════════ PROJECTS ═══════════════ -->
 ## 🚀 Featured Projects
 
-### 🏫 Aula Ya &nbsp;<img src="https://img.shields.io/badge/IMPACT-RURAL%20EDUCATION-2EA44F?style=flat-square&labelColor=161B22" alt="Impact"/>
-
-> **Closing the rural education gap in Colombia through engineering and accessibility.**
-
-**The problem.** Students in rural areas accumulate learning gaps year after year, and most digital education tools assume a stable internet connection that their schools and homes simply do not have.
-
-**The solution.** A systems engineering solution that works **without continuous connectivity** and adds **no extra workload for teachers**. It is designed from day one to be adopted by the State or international cooperation agencies.
-
 <table>
   <tr>
-    <td width="50%" valign="top">🧠 <strong>Local &amp; offline AI</strong><br/>An adaptive tutor that runs locally and adjusts to each student without a constant connection.</td>
-    <td width="50%" valign="top">📲 <strong>SMS fallback channel</strong><br/>Inclusive coverage for students who only have basic phones and equipment.</td>
-  </tr>
-  <tr>
-    <td valign="top">👩‍🏫 <strong>Teacher support</strong><br/>Downloadable curriculum content and automatic gap diagnostics, with no added operational load.</td>
-    <td valign="top">🤝 <strong>Sustainable adoption</strong><br/>Built to be deployed and maintained at scale by public institutions and cooperation bodies.</td>
-  </tr>
-</table>
-
-<img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=56D364" alt="Python"/>
-<img src="https://img.shields.io/badge/Edge_AI-161B22?style=flat-square&logo=tensorflow&logoColor=56D364" alt="Edge AI"/>
-<img src="https://img.shields.io/badge/SMS_Gateway-161B22?style=flat-square&logo=twilio&logoColor=56D364" alt="SMS"/>
-<img src="https://img.shields.io/badge/Offline--First-161B22?style=flat-square&logo=pwa&logoColor=56D364" alt="Offline"/>
-
-<br/><br/>
-
-### 📊 Table Master &nbsp;<img src="https://img.shields.io/badge/IMPACT-AI%20DATA%20CURATION-2EA44F?style=flat-square&labelColor=161B22" alt="Impact"/>
-
-> **Intuitive spreadsheets powered by AI, so anyone can work with data.**
-
-**The problem.** Cleaning and preparing tabular data usually requires code or fragile manual work, and AI-generated fixes are hard to trust when you cannot see what changed.
-
-**The solution.** A web app that combines the familiarity of a spreadsheet with AI to **load, edit, clean and export** tabular data without writing code. Every AI suggestion is shown as a visual diff that the user reviews and approves.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">🔍 <strong>Automatic detection</strong><br/>Instant identification of schemas, headers and data types on upload.</td>
-    <td width="50%" valign="top">🧹 <strong>Smart cleaning with diff</strong><br/>AI-assisted corrections that the user reviews and accepts visually before anything changes.</td>
-  </tr>
-  <tr>
-    <td valign="top">🕘 <strong>Version control</strong><br/>Full change history to experiment with data without fear of losing information.</td>
-    <td valign="top">📤 <strong>Flexible export</strong><br/>Outputs optimized for analysis and for direct use as context in LLMs.</td>
-  </tr>
-</table>
-
-<img src="https://img.shields.io/badge/Full_Stack-161B22?style=flat-square&logo=nextdotjs&logoColor=56D364" alt="Full Stack"/>
-<img src="https://img.shields.io/badge/AI_Data_Cleaning-161B22?style=flat-square&logo=pandas&logoColor=56D364" alt="AI"/>
-<img src="https://img.shields.io/badge/Web_App-161B22?style=flat-square&logo=googlechrome&logoColor=56D364" alt="Web"/>
-<img src="https://img.shields.io/badge/LLM_Context-161B22?style=flat-square&logo=openai&logoColor=56D364" alt="LLM"/>
-
-<br/><br/>
-
-### 📍 PostMark &nbsp;<img src="https://img.shields.io/badge/IMPACT-DIGITAL%20MEMORY-2EA44F?style=flat-square&labelColor=161B22" alt="Impact"/>
-
-> **Bridging tangible and digital memory spaces.**
-
-**The problem.** Memories live in places and objects, but digital tools capture them somewhere else entirely, so the physical and digital worlds of a memory drift apart.
-
-**The solution.** A mobile system that connects **real places and physical keepsakes with their digital counterpart**, so experiences can be preserved and relived where they happened.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">🗺️ <strong>Anchored memories</strong><br/>Memories tied to real places and objects instead of floating in a feed.</td>
-    <td width="50%" valign="top">📱 <strong>Mobile-first systems</strong><br/>An experience designed around the device people carry everywhere.</td>
+    <td width="33%" valign="top">
+      <img src="assets/project-aula-ya.svg" width="100%" alt="Aula Ya"/>
+      <p><em>Closing the rural education gap in Colombia through engineering and accessibility.</em></p>
+      <p><strong>The problem.</strong> Rural students accumulate learning gaps year after year, and most digital tools assume a stable internet connection that their schools and homes do not have.</p>
+      <p><strong>The solution.</strong> A systems engineering solution that works <strong>without continuous connectivity</strong> and adds <strong>no workload for teachers</strong>, designed to be adopted by the State or international cooperation agencies.</p>
+      <ul>
+        <li>🧠 <strong>Local &amp; offline AI:</strong> an adaptive tutor that runs without a constant connection.</li>
+        <li>📲 <strong>SMS fallback:</strong> coverage for students with basic phones.</li>
+        <li>👩‍🏫 <strong>Teacher support:</strong> downloadable curriculum and automatic gap diagnostics.</li>
+        <li>🤝 <strong>Sustainable adoption:</strong> built to be deployed at scale by public institutions.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=56D364" alt="Python"/>
+        <img src="https://img.shields.io/badge/Edge_AI-161B22?style=flat-square&logo=tensorflow&logoColor=56D364" alt="Edge AI"/>
+        <img src="https://img.shields.io/badge/SMS_Gateway-161B22?style=flat-square&logo=twilio&logoColor=56D364" alt="SMS"/>
+        <img src="https://img.shields.io/badge/Offline--First-161B22?style=flat-square&logo=pwa&logoColor=56D364" alt="Offline"/>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <img src="assets/project-table-master.svg" width="100%" alt="Table Master"/>
+      <p><em>Intuitive spreadsheets powered by AI, so anyone can work with data.</em></p>
+      <p><strong>The problem.</strong> Cleaning tabular data usually takes code or fragile manual work, and AI fixes are hard to trust when you cannot see what changed.</p>
+      <p><strong>The solution.</strong> A web app that pairs the familiarity of a spreadsheet with AI to <strong>load, edit, clean and export</strong> data without writing code. Every suggestion appears as a visual diff the user reviews and approves.</p>
+      <ul>
+        <li>🔍 <strong>Automatic detection</strong> of schemas, headers and data types.</li>
+        <li>🧹 <strong>Smart cleaning with diff:</strong> AI suggests, the user approves.</li>
+        <li>🕘 <strong>Version control:</strong> full history to experiment safely.</li>
+        <li>📤 <strong>Flexible export</strong> for analysis and as LLM context.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Full_Stack-161B22?style=flat-square&logo=nextdotjs&logoColor=56D364" alt="Full Stack"/>
+        <img src="https://img.shields.io/badge/AI_Data_Cleaning-161B22?style=flat-square&logo=pandas&logoColor=56D364" alt="AI"/>
+        <img src="https://img.shields.io/badge/Web_App-161B22?style=flat-square&logo=googlechrome&logoColor=56D364" alt="Web"/>
+        <img src="https://img.shields.io/badge/LLM_Context-161B22?style=flat-square&logo=openai&logoColor=56D364" alt="LLM"/>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <img src="assets/project-postmark.svg" width="100%" alt="PostMark"/>
+      <p><em>Bridging tangible and digital memory spaces.</em></p>
+      <p><strong>The problem.</strong> Memories live in places and objects, but digital tools store them somewhere else, so the physical and digital sides of a memory drift apart.</p>
+      <p><strong>The solution.</strong> A mobile system that connects <strong>real places and physical keepsakes with their digital counterpart</strong>, so experiences can be preserved and relived where they happened.</p>
+      <ul>
+        <li>🗺️ <strong>Anchored memories</strong> tied to real places and objects.</li>
+        <li>📱 <strong>Mobile-first:</strong> designed around the device people carry everywhere.</li>
+        <li>🔗 <strong>Digital layer</strong> that complements, not replaces, the physical.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Mobile-161B22?style=flat-square&logo=android&logoColor=56D364" alt="Mobile"/>
+        <img src="https://img.shields.io/badge/Geolocation-161B22?style=flat-square&logo=googlemaps&logoColor=56D364" alt="Geo"/>
+        <img src="https://img.shields.io/badge/Digital_Memory-161B22?style=flat-square&logo=icloud&logoColor=56D364" alt="Memory"/>
+      </p>
+    </td>
   </tr>
 </table>
-
-<img src="https://img.shields.io/badge/Mobile-161B22?style=flat-square&logo=android&logoColor=56D364" alt="Mobile"/>
-<img src="https://img.shields.io/badge/Geolocation-161B22?style=flat-square&logo=googlemaps&logoColor=56D364" alt="Geo"/>
-<img src="https://img.shields.io/badge/Digital_Memory-161B22?style=flat-square&logo=icloud&logoColor=56D364" alt="Memory"/>
-
-<br/><br/>
 
 <div align="center">
   <a href="https://github.com/Juliana0203?tab=repositories">
@@ -190,9 +162,8 @@ const juliana = {
   </a>
 </div>
 
-<br/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-<!-- ═══════════════ ANALYTICS ═══════════════ -->
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -212,7 +183,6 @@ const juliana = {
 
 <br/>
 
-<!-- ═══════════════ CLOSING ═══════════════ -->
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1500&color=2EA44F&center=true&vCenter=true&width=700&height=40&lines=Open+to+collaboration%2C+research+and+impactful+projects" alt="Open to"/>
