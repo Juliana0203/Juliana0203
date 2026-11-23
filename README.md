@@ -70,7 +70,7 @@ const juliana = {
 
 I turn complex social and data problems into **accessible, scalable and sustainable** software, from architecture to interface. Rigor from mathematics, empathy from the people who will actually use the tool.
 
-## 💬 Quote of the Day
+## 💬 Quote of the Week
 
 <div align="center">
 
