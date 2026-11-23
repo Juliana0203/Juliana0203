@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Juliana Moreno — Systems Engineer, Full Stack Architect, Applied ML"/>
+<img src="assets/banner.svg" width="100%" alt="Juliana Moreno Narvaez — Systems Engineer, Full Stack Architect, Applied ML"/>
 
 <a href="https://github.com/Juliana0203">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1000&color=56D364&center=true&vCenter=true&width=760&height=50&lines=Building+high-impact+software+for+real+people;Offline-first+%C2%B7+Applied+AI+%C2%B7+Full+Stack;Systems+Engineering+%40+Universidad+de+los+Andes;Mathematics+as+a+design+language" alt="Typing SVG"/>
